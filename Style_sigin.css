@@ -1,0 +1,43 @@
+body{
+    background-color: aqua;
+    color: rgb(217, 27, 27);
+    border: 2px solid red;
+    font-size: 20px;
+}
+.navigation{
+    background-color: #333;
+        padding: 10px;
+        text-align: center;
+      }
+  
+      nav a {
+        color: white;
+        text-decoration: none;
+        padding: 14px;
+        display: inline-block;
+        font-family: Arial, sans-serif;
+      }
+  
+      nav a:hover {
+        background-color: #575757;
+        border-radius: 5px;
+      }
+
+.class1{
+    text-align: center;
+    margin: 5px;
+}
+.class2{
+    text-align: center;
+    padding: 20px;
+}
+label{
+    font-size: 20px;
+}
+input{
+    padding: 10px;
+    margin: 0 5px;
+}
+.class3{
+    text-align: center;
+}
